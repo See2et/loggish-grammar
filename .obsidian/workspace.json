@@ -194,9 +194,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45e7bd41cf10a2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/語彙：代詞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0c85c9382754f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/語法：数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e90705c2b16ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/音韻：アクセント.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "404cb2a0692ef808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/音韻：音素.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -262,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/総合：拡張レーベンシュタイン距離.md",
+                "file": "Cards/音韻：音素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/総合：拡張レーベンシュタイン距離.md",
+                "file": "Cards/音韻：音素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/総合：拡張レーベンシュタイン距離.md"
+                "file": "Cards/音韻：音素.md"
               }
             }
           }
@@ -323,10 +371,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e0dc700713caa119",
+  "active": "404cb2a0692ef808",
   "lastOpenFiles": [
-    "Cards/総合：基本色について.md",
+    "Cards/音韻：アクセント.md",
+    "Cards/音韻：音素.md",
+    "Cards/語法：数.md",
+    "Cards/語彙：代詞.md",
     "Cards/総合：拡張レーベンシュタイン距離.md",
+    "Cards/総合：基本色について.md",
     "Cards/統語：目的語節.md",
     "Cards/統語：疑問文.md",
     "Cards/統語：接続節.md",
