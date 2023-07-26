@@ -38,9 +38,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e944d1a32afd1c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/一般：基本方針.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f74ef42cf428dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/文法：品詞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08c780de694d7c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/書法：文字.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94b349abdb2caa84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/範疇：時制と相.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6666ba4260016f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/統語：修飾.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c056679c36ef38f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/統語：冠詞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbbc7d2bb56ba54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/統語：命令文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -106,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/指南：標準的記事名フォーマット.md",
+                "file": "Cards/統語：命令文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/指南：標準的記事名フォーマット.md",
+                "file": "Cards/統語：命令文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/指南：標準的記事名フォーマット.md"
+                "file": "Cards/統語：命令文.md"
               }
             }
           }
@@ -167,10 +251,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f6a17b1865550d13",
+  "active": "dbbc7d2bb56ba54d",
   "lastOpenFiles": [
-    "Home.md",
+    "Cards/統語：冠詞.md",
+    "Cards/統語：命令文.md",
+    "Cards/統語：修飾.md",
+    "Cards/範疇：時制と相.md",
+    "Cards/書法：文字.md",
+    "Cards/文法：品詞.md",
+    "Cards/一般：基本方針.md",
     "Cards/指南：標準的記事名フォーマット.md",
+    "Home.md",
     "Cards"
   ]
 }
