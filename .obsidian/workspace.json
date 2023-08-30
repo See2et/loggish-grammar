@@ -237,7 +237,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/統語：修飾.md",
+                "file": "Cards/統語：接続節.md",
                 "mode": "source",
                 "source": false
               }
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/統語：修飾.md",
+                "file": "Cards/統語：接続節.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/統語：修飾.md",
+                "file": "Cards/統語：接続節.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/統語：修飾.md"
+                "file": "Cards/統語：接続節.md"
               }
             }
           }
@@ -371,7 +371,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "404cb2a0692ef808",
+  "active": "2afe4e46109148e9",
   "lastOpenFiles": [
     "Cards/統語：疑問文.md",
     "Cards/統語：冠詞.md",
@@ -382,15 +382,15 @@
     "Cards/語彙：代詞.md",
     "Cards/語法：数.md",
     "Cards/音韻：音素.md",
+    "Cards/音韻：アクセント.md",
+    "Cards/文法：品詞.md",
+    "Cards/統語：平叙文.md",
+    "Cards/統語：目的語節.md",
+    "Cards/範疇：時制と相.md",
+    "Cards/統語：修飾.md",
+    "Cards/統語：接続節.md",
     "Cards/一般：基本方針.md",
     "Cards/統語：命令文.md",
-    "Cards/範疇：時制と相.md",
-    "Cards/文法：品詞.md",
-    "Cards/統語：目的語節.md",
-    "Cards/統語：平叙文.md",
-    "Cards/統語：接続節.md",
-    "Cards/統語：修飾.md",
-    "Cards/音韻：アクセント.md",
     "Home.md",
     "Cards"
   ]
