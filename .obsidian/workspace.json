@@ -254,9 +254,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57e5fc9f70be3a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/総合：認知言語学的分類について.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -322,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/総合：アルファベット順.md",
+                "file": "Cards/総合：認知言語学的分類について.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/総合：アルファベット順.md",
+                "file": "Cards/総合：認知言語学的分類について.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/総合：アルファベット順.md"
+                "file": "Cards/総合：認知言語学的分類について.md"
               }
             }
           }
@@ -383,10 +395,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "564d6247c0433d3e",
+  "active": "57e5fc9f70be3a42",
   "lastOpenFiles": [
-    "Cards/語法：数.md",
+    "Cards/語彙：代詞.md",
+    "Cards/総合：認知言語学的分類について.md",
     "Cards/総合：アルファベット順.md",
+    "Cards/語法：数.md",
     "Cards/総合：拡張レーベンシュタイン距離.md",
     "Cards/総合：基本色について.md",
     "Cards/統語：冠詞.md",
@@ -400,7 +414,6 @@
     "Cards/統語：目的語節.md",
     "Cards/統語：命令文.md",
     "Cards/文法：品詞.md",
-    "Cards/語彙：代詞.md",
     "Cards/音韻：音素.md",
     "Cards/音韻：アクセント.md",
     "Cards/一般：基本方針.md",
