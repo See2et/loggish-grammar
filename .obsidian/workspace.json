@@ -266,9 +266,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ada5140206f973a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -395,7 +405,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "57e5fc9f70be3a42",
+  "active": "9ada5140206f973a",
   "lastOpenFiles": [
     "Cards/語彙：代詞.md",
     "Cards/総合：認知言語学的分類について.md",
