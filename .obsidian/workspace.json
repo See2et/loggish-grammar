@@ -278,9 +278,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c5050bd993d1038",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -417,7 +427,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05a0c59426fbeab8",
+  "active": "1c5050bd993d1038",
   "lastOpenFiles": [
     "Cards/総合：認知言語学的分類について.md",
     "Cards/総合：造語法.md",
