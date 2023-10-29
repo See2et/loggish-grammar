@@ -283,9 +283,11 @@
             "id": "1c5050bd993d1038",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Cards/文法：品詞.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -356,7 +358,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/総合：認知言語学的分類について.md",
+                "file": "Cards/文法：品詞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/総合：認知言語学的分類について.md",
+                "file": "Cards/文法：品詞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -396,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/総合：認知言語学的分類について.md"
+                "file": "Cards/文法：品詞.md"
               }
             }
           },
@@ -429,27 +431,27 @@
   },
   "active": "1c5050bd993d1038",
   "lastOpenFiles": [
+    "Cards/範疇：時制と相.md",
+    "Cards/統語：目的語節.md",
+    "Cards/統語：命令文.md",
+    "Cards/統語：平叙文.md",
+    "Cards/統語：冠詞.md",
     "Cards/総合：認知言語学的分類について.md",
     "Cards/総合：造語法.md",
-    "Cards/統語：修飾.md",
-    "Cards/統語：接続節.md",
-    "Cards/統語：平叙文.md",
-    "Cards/統語：命令文.md",
-    "Cards/統語：目的語節.md",
-    "Cards/範疇：時制と相.md",
-    "Cards/文法：品詞.md",
+    "Cards/総合：拡張レーベンシュタイン距離.md",
     "Cards/総合：基本色について.md",
-    "Cards/総合：アルファベット順.md",
-    "Cards/書法：文字.md",
-    "Cards/指南：標準的記事名フォーマット.md",
     "Cards/語彙：代詞.md",
     "Cards/語法：数.md",
     "Cards/音韻：音素.md",
     "Cards/音韻：アクセント.md",
     "Cards/一般：基本方針.md",
-    "Cards/統語：冠詞.md",
+    "Cards/統語：修飾.md",
     "Cards/統語：疑問文.md",
-    "Cards/総合：拡張レーベンシュタイン距離.md",
+    "Cards/統語：接続節.md",
+    "Cards/文法：品詞.md",
+    "Cards/総合：アルファベット順.md",
+    "Cards/書法：文字.md",
+    "Cards/指南：標準的記事名フォーマット.md",
     "Home.md",
     "Cards"
   ]
